@@ -22,10 +22,13 @@ $ npm install --save @fortawesome/vue-fontawesome@latest
 
 # then run otherwise it will install old core version of Fontawesome
 yarn add @fortawesome/fontawesome-svg-core
+<br>
 or
+<br>
 npm install --save @fortawesome/fontawesome-svg-core
 
 # nuxt-config.js
+<pre>
   buildModules: [
     '@nuxtjs/fontawesome',
   ],
@@ -36,5 +39,5 @@ npm install --save @fortawesome/fontawesome-svg-core
       brands:true
     }
   },
-  
+</pre>  
  ## Enjoy 
