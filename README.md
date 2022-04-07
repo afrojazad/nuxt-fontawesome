@@ -15,7 +15,9 @@ npm install @nuxtjs/fontawesome @fortawesome/free-solid-svg-icons @fortawesome/f
 
 # Must run 
 $ yarn add @fortawesome/vue-fontawesome@latest
+<br>
 or
+<br>
 $ npm install --save @fortawesome/vue-fontawesome@latest
 
 # then run otherwise it will install old core version of Fontawesome
